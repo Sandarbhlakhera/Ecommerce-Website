@@ -13,9 +13,9 @@ Users can browse products, view details, add items to the cart, and manage their
 ## 🛠️ Tech Stack  
 - ReactJS  
 - JavaScript (ES6+)  
-- CSS  
+- Tailwind CSS  
 
 ## 📂 How to Run  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/ecommerce-website.git
+   git clone https://github.com/Sandarbhlakhera/Ecommerce-Website.git
